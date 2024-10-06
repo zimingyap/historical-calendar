@@ -31,9 +31,4 @@ A beautiful and interactive React-based calendar application that shows importan
 - **React Calendar**: A simple, customizable calendar component.
 - **On This Day API**: API for fetching historical events.
 
-## Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/history-calendar.git
